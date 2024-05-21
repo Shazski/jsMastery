@@ -4,4 +4,6 @@ const obj1 = {
   place:"calicut"
 }
 
-console.log(Object.values(obj1)); // return an  array of each each values
+console.log(Object.keys(obj1)); // return an array of key's values
+
+console.log(Object.values(obj1)); // return an array of key's values
